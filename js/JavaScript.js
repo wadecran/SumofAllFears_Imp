@@ -51,11 +51,11 @@ $("#btnStart").on("click", function () {
     let message = `No solution for the sum value of ${k} was found`;
 
     for (let n = 0; n < nums.length - 1; n++) {
-        //If any number in the array is larger than K we can ignore it
+        //If any number in the array is larger then K we can ignore it
         if (nums[n] > k)
             continue;
 
-        //Subtracts current index from out sum and sets up to find the remainder
+        //Subtracts current index from sum and sets up to find the remainder
         let sub = k - nums[n];
 
         //Changes the output if a solution is found
