@@ -52,7 +52,6 @@ C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\bin\rosly
 C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\obj\Debug\SumofAllFears_Imp.csprojAssemblyReference.cache
 C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\obj\Debug\SumofAllFears_Imp.csproj.CoreCompileInputs.cache
 C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\obj\Debug\SumofAllFears_Imp.csproj.CopyComplete
 C:\Users\Purple Onion\source\repos\SumofAllFears_Imp\SumofAllFears_Imp\obj\Debug\SumofAllFears_Imp.dll
